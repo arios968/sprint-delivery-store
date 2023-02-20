@@ -35,7 +35,7 @@ const Login = () => {
               correo: result.user.email,
               nombre: result.user.displayName,
               foto: result.user.photoURL,
-              direccion: location,
+              direccion: "",
               celular:"",
               
 
